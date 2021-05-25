@@ -1,7 +1,9 @@
 body
 {
-    background-color: rgb(146, 83, 31);
+    background-color: #92531f;
     position: absolute;
+    margin: 0;
+    padding: 0;
 }
 h1{
     text-align: center;
@@ -12,13 +14,13 @@ img{
     margin-left: 48%;
 }
 .content{
-    position: relative;
+
     background-color: white;
     padding: 50px;
     margin-left: 20%;
     text-align: left;
     width: 50%;
-    margin-bottom: 100%;
+    margin-bottom: 20%;
 }
 button{
     background-color: rgb(158, 106, 64);
@@ -31,11 +33,11 @@ button{
 .info{
     position: relative;
     background-color: white;
-    padding: 50px;
+    padding: 20px;
     margin-left: 20%;
     text-align: justify ;
     width: 50%;
-    margin-bottom: 100%;
+    margin-bottom: 20%;
 }
 .more{
     position: relative;
@@ -44,5 +46,5 @@ button{
     margin-left: 20%;
     text-align: justify ;
     width: 50%;
-    margin-bottom: 100%;
+    margin-bottom: 20%;
 }
