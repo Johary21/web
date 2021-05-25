@@ -28,3 +28,21 @@ button{
     color: black;
     text-decoration: none;
 }
+.info{
+    position: relative;
+    background-color: white;
+    padding: 50px;
+    margin-left: 20%;
+    text-align: justify ;
+    width: 50%;
+    margin-bottom: 100%;
+}
+.more{
+    position: relative;
+    background-color: white;
+    padding: 50px;
+    margin-left: 20%;
+    text-align: justify ;
+    width: 50%;
+    margin-bottom: 100%;
+}
